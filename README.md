@@ -22,20 +22,13 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
-**framework**
-![React](https://img.shields.io/badge/react-black?style=social&logo=react)
-![Angular](https://img.shields.io/badge/angular-black?style=social&logo=angular&logoColor=red%20)
-![Vite](https://img.shields.io/badge/vite-black?style=social&logo=vite&logoColor=red%20)
-
+**framework**<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/React-%20blue%20and%20white?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Angular-red%20white?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Vite-blue?style=flat">
 <br>
 **Extras**
-![Npm](https://img.shields.io/badge/npm-yellow?style=flat&logo=npm)<br>
-![Nodejs](https://img.shields.io/badge/nodejs-yellow?style=flat&logo=nodejs)<br>
-![Next.js](https://img.shields.io/badge/next.js-white?style=flat&logo=next.js&logoColor=black)
-
-
-
-
-
+<img alt="Static Badge" src="https://img.shields.io/badge/Npm-red?style=flat"> <img alt="Static Badge" src="https://img.shields.io/badge/Npm-%20black?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/next.js-white?style=flat">
   
 </p>
