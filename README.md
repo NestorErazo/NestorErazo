@@ -29,8 +29,8 @@
 
 <br>
 **Extras**
-![Npm](https://img.shields.io/badge/npm-yellow?style=flat&logo=npm)
-![Nodejs](https://img.shields.io/badge/nodejs-yellow?style=flat&logo=nodejs)
+![Npm](https://img.shields.io/badge/npm-yellow?style=flat&logo=npm)<br>
+![Nodejs](https://img.shields.io/badge/nodejs-yellow?style=flat&logo=nodejs)<br>
 ![Next.js](https://img.shields.io/badge/next.js-white?style=flat&logo=next.js&logoColor=black)
 
 
