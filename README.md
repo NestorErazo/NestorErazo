@@ -28,7 +28,7 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Vite-blue?style=flat">
 <br>
 **Extras**
-<img alt="Static Badge" src="https://img.shields.io/badge/Npm-red?style=flat"> <img alt="Static Badge" src="https://img.shields.io/badge/Npm-%20black?style=flat">
+<img alt="Static Badge" src="https://img.shields.io/badge/Npm-red?style=flat"> 
 <img alt="Static Badge" src="https://img.shields.io/badge/next.js-white?style=flat">
   
 </p>
